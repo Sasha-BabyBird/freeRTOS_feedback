@@ -6,5 +6,5 @@
 2. In FreeRTOS\Demo\WIN32-MSVC, open WIN32.sln with Microsoft Visual Studio.
 3. Replace main.c, main_blinky.c and FreeRTOSConfig.h from the demo with corresponding files from the repo.
 4. Run the FreeRTOS project.
-5. In MATLAB, run RTDS2022.m. SLX- and TXT-files must be in the same folder.
+5. In MATLAB, run RTDS2022.m. SLX and TXT files must be in the same folder.
 6. model_u.txt, model_y.txt and RTOS_vs_Simulink.fig are just for demonstration purposes.
